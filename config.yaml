@@ -1,0 +1,17 @@
+image: "360.png"					# 360 Controller
+
+button_mappings:
+  "0": "tvcontrol ok"		# A
+  "1": "tvcontrol back"		# B
+  "2": "tvcontrol home"		# Y
+  "3": "tvcontrol exit"		# X
+  
+  "4": "tvcontrol volume_down"	# RB
+  "5": "tvcontrol volume_up"	# LB
+
+  "6": "tvcontrol power"		# Back
+
+  "11": "tvcontrol left"		# D-left
+  "12": "tvcontrol right"		# D-right
+  "13": "tvcontrol up"		# D-up
+  "14": "tvcontrol down"		# D-down
